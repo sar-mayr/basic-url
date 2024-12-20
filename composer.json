@@ -1,0 +1,20 @@
+{
+    "name": "sar-mayr/basic-url",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SarMayr\\BasicUrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarah Mayr",
+            "email": "smayr@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "v4.4"
+    }
+}
